@@ -1,6 +1,6 @@
 ---
 title: "Map"
-excerpt "Map of Something"
+excerpt: "Map of Something"
 collection: portfolio 
 ---
 
