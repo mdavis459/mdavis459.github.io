@@ -2,8 +2,8 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
-paperurl: 'https://www.howardcc.edu/media/howardcc/programs-courses/divisions/documents/muse-2022.pdf'
-date: 2022
+url: 'https://www.howardcc.edu/media/howardcc/programs-courses/divisions/documents/muse-2022.pdf'
+time: 2022
 ---
 
 "The Muse- Warrior"
