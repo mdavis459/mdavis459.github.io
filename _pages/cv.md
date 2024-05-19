@@ -47,12 +47,6 @@ Skills
 * CPR and First Aid Safety Certification: Certified 10/20/2021
 * IRB Certification: Certified 4/24/2023
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Softball Manager, 2017- Managed the JV Softball team at James Hubert Blake High School. Worked with coaches experienced players and non-experienced players 
